@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ProductReference.Tests/ProductReference.Tests.csproj" />
+  <Project Path="ProductReferenceAPI/ProductReferenceAPI.csproj" />
+  <Project Path="ProductReferenceMVC/ProductReferenceMVC.csproj" />
+</Solution>
