@@ -1,4 +1,4 @@
-namespace ProductReferenceMVC.Models;
+namespace ProductReference.MVC.Models;
 
 public class ErrorViewModel
 {

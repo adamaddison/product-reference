@@ -16,8 +16,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ProductReferenceAPI\ProductReferenceAPI.csproj" />
-    <ProjectReference Include="..\ProductReferenceMVC\ProductReferenceMVC.csproj" />
+    <ProjectReference Include="..\ProductReference.API\ProductReference.API.csproj" />
+    <ProjectReference Include="..\ProductReference.MVC\ProductReference.MVC.csproj" />
   </ItemGroup>
 
 </Project>
